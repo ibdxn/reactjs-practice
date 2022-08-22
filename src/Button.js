@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 
-function Button({text}) {
+function Button({ text }) {
     return <button>{text}</button>;
 }
 
